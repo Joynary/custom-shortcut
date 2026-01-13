@@ -1,7 +1,8 @@
 # custom-shortcut
 A WordPress plugin that allows customers to add links to frequently used websites and automatically retrieve their logos.
+
 === Custom Site Navigator ===
-Contributors: Your Name
+Contributors: Mroynary
 Tags: navigation, shortcuts, dashboard, custom links
 Requires at least: 5.0
 Tested up to: 6.4
