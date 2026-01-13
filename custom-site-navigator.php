@@ -4,7 +4,7 @@ Plugin Name: Custom Site Navigator
 Plugin URI: 
 Description: A custom site navigation plugin that allows users to add and manage website shortcuts with logos
 Version: 1.0
-Author: Your Name
+Author: Joynary
 License: GPL v2 or later
 Text Domain: custom-site-navigator
 */
